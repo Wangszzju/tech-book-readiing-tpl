@@ -35,6 +35,7 @@ module.exports = {
     "no-const-assign": 2,
     "no-var": 1,
     "no-unused-vars": 1,
-    "no-undef": 2
+    "no-undef": 2,
+    "no-console": 1
   }
 };
